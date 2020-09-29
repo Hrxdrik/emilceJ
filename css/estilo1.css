@@ -1,0 +1,43 @@
+@media (max-width: 720px){
+	.t0m{
+		display: none;	
+	}
+	.t20m{
+		width: 20%;
+	}
+	.t40m{
+		width: 40%;
+	}
+	.t60m{
+		width: 60%;
+	}
+	.t80m{
+		width: 80%;
+	}
+	.t100m{
+		width: 100%;
+	}
+}
+@media (min-width: 1025px){
+	.t0t{
+		display: none;	
+	}
+	.t20t{
+		width: 20%;
+	}
+	.t40t{
+		width: 40%;
+	}
+	.t60t{
+		width: 60%;
+	}
+	.t80t{
+		width: 80%;
+	}
+	.t100t{
+		width: 100%;
+	}
+}
+body{	
+	background: #537C8E;
+	color : #fff;}
